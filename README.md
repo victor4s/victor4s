@@ -15,6 +15,10 @@
   <img align="center" alt="postgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Report-Builder.svg">
 </div>
+</div>
+
+##
+My name is Victor Augusto, I'm a brazilian ....
 
 ##
 
