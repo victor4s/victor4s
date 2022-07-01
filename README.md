@@ -1,5 +1,5 @@
 <center>
-  <img width="100%" src="https://github.com/victor4s/victor4s/blob/main/violin_cloud1.png"/>
+  <img width="100%" src="https://github.com/victor4s/victor4s/blob/main/violin_cloud.png"/>
 </center>
 
 <div align="center">
