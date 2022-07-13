@@ -19,7 +19,8 @@
 
 ##
 <a> 
-  My name is Victor Augusto, I'm a brazilian ....
+  My name is Victor Augusto, I'm a self-taught data scientist from Brazil.
+
 
 </a>
 
