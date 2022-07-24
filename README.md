@@ -23,10 +23,8 @@
 
 ##
 <a> 
-  My name is Victor Augusto, I'm a self-taught data scientist from Brazil.
-  ..... 
-  .....
-
+  My name is Victor Augusto, I'm a self-taught data scientist from Brazil.<br/>
+  Git under construction....
 </a>
 
 ##
