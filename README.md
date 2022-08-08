@@ -1,8 +1,4 @@
-<center>
-  <img width="100%" src="https://github.com/victor4s/victor4s/blob/main/cloud_violin.png"/>
-</center>
-
-##
+## Hi, name is Victor Augusto, I'm a self-taught data scientist from Brazil.<br/>
 
 <div align="center">
       <a href="https://github.com/victor4s">
@@ -10,26 +6,18 @@
       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor4s&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="postgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Report-Builder.svg">
-</div>
+  <img align="right" alt="Violin-pic" height="150" style="border-radius:50px;" src="https://github.com/victor4s/victor4s/blob/main/cloud_violin.png">
 </div>
 
 ##
-<a> 
-  My name is Victor Augusto, I'm a self-taught data scientist from Brazil.<br/>
-  Git under construction....
-</a>
 
-##
-
-<div align="center"> 
+<div align="left"> 
     <a href="https://www.linkedin.com/in/victor-augusto-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
    ![Snake animation](https://github.com/victor4s/victor4s/blob/output/github-contribution-grid-snake.svg)
