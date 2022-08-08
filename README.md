@@ -1,4 +1,4 @@
-## Hi, name is Victor Augusto, I'm a self-taught data scientist from Brazil.<br/>
+## Hi, name is Victor Augusto, I'm a data scientist student from Brazil.<br/>
 
 <div align="center">
       <a href="https://github.com/victor4s">
