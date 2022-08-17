@@ -12,7 +12,7 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="postgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Report-Builder.svg">
-  <img align="right" alt="Violin-pic" height="150" style="border-radius:50px;" src="https://github.com/victor4s/victor4s/blob/main/violin_cloud.png">
+  <img align="right" alt="Violin-pic" height="150" style="border-radius:50px;" src="https://github.com/victor4s/victor4s/blob/main/cloud_violine.png">
 </div>
 
 ##
