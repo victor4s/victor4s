@@ -1,4 +1,6 @@
-## Hi, my name is Victor Augusto and I'm a data science student from Brazil.<br/>
+<h1 align='center'>
+  Hi, I'm Victor Augusto!
+</h1>
 
 <div align="center">
       <a href="https://github.com/victor4s">
