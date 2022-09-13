@@ -1,4 +1,3 @@
-![ViewCount](https://komarev.com/ghpvc/?username=victor4s&color=blueviolet&style=for-the-badge)
 <h1 align='center'>
   Hi, I'm Victor Augusto!
 </h1>
